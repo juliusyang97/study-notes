@@ -4,7 +4,7 @@
 
 [在这里下载新版powershell]([PowerShell/PowerShell: PowerShell for every system! (github.com)](https://github.com/PowerShell/PowerShell))
 
-![image-20210517103814114](C:\Users\juliusyang\AppData\Roaming\Typora\typora-user-images\image-20210517103814114.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210519210342578.png)
 
 windows系统下载 `xxx.msi` 文件,标准的安装文件，其他系统也是可以配置这个的
 
@@ -16,7 +16,7 @@ windows系统下载 `xxx.msi` 文件,标准的安装文件，其他系统也是�
 
 
 
-![image-20210517104310867](C:\Users\juliusyang\AppData\Roaming\Typora\typora-user-images\image-20210517104310867.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210519210354834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTM5MjA4MQ==,size_16,color_FFFFFF,t_70)
 
 2. 打开刚安装好`pwsh` , 执行以下命令安装插件
 
