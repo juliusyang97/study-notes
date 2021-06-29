@@ -4,7 +4,7 @@
 
 ## 2. 主机Network设置：
 
-![image-20210629212814948](/home/julius/.config/Typora/typora-user-images/image-20210629212814948.png)
+![image-20210629212814948](/home/julius/my_git/study-notes/ros/network_settings.png)
 
 ```
 Settings --> Wired --> options --> IPv4 Settings ##(Method: Manual, Adress & NetMask)
