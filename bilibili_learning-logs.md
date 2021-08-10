@@ -12,6 +12,8 @@
 
 [【奥特学园】ROS机器人入门课程《ROS理论与实践》零基础教程](https://www.bilibili.com/video/BV1Ci4y1L7ZZ)
 
+课程文档：http://www.autolabor.com.cn/book/ROSTutorials/
+
 2021年8月9日07:16:07  --> p19;
 
 
