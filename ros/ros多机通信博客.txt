@@ -1,2 +1,0 @@
-https://blog.csdn.net/weixin_44827364/article/details/104078347   ROS分布式多机通讯的配置与实现
-https://blog.csdn.net/hehedadaq/article/details/82898307    ros分布式多机通信完整教程
