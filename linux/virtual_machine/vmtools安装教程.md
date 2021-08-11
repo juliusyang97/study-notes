@@ -2,7 +2,7 @@
  >
  > 2. 安装vmtools时，虚拟机系统是要保持开机状态的（本文是Ubuntu16.04）
 
-1. 电机重新安装vmtools
+1. 点击重新安装vmtools
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210611152415105.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTM5MjA4MQ==,size_16,color_FFFFFF,t_70)
 2. 如果正常会弹出以下界面
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210611153535235.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTM5MjA4MQ==,size_16,color_FFFFFF,t_70)
