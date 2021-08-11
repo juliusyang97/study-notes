@@ -1,4 +1,4 @@
-[conda更换国内源方法链接](python/conda/conda更换国内源的方法.md)
+[conda更换国内源方法链接](./conda更换国内源的方法.md)
 
 1. 查看当前已有环境
 ```

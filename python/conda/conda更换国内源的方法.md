@@ -1,4 +1,4 @@
-[conda常用命令汇总](python/conda/conda_command.md)
+[conda常用命令汇总](./conda_command.md)
 
 1. 添加清华源
 ```
