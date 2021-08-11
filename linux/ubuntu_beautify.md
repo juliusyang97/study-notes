@@ -59,6 +59,7 @@ sudo apt-get install docky
 
 ## 修改Ubuntu下终端用户名颜色
 
+> https://blog.csdn.net/vactivx/article/details/62219349
 > Terminator默认的用户名颜色与命令颜色一致，很不方便查阅
 
 ```bash
@@ -100,6 +101,8 @@ vim config
 [global_config]
   suppress_multiple_term_dialog = True
 [keybindings]
+  new_window = Disabled
+  split_vert = <Primary><Shift>i
 [layouts]
   [[default]]
     [[[child1]]]
@@ -111,14 +114,14 @@ vim config
 [plugins]
 [profiles]
   [[default]]
-    background_color = "#002b36"
-    background_darkness = 0.68
-    background_image = /home/julius/Downloads/wallhaven-72159y.jpg  #背景图片地址
+    background_color = "#041f25"
+    background_darkness = 0.8
+    background_image = /home/julius/Downloads/wallhaven-q23ekq.jpg
     background_type = image
     cursor_color = "#3036ec"
     custom_command = tmux
-    font = Monospace 13
-    foreground_color = "#839496"
+    font = Monospace 12
+    foreground_color = "#6db9c0"
     login_shell = True
     palette = "#000000:#cc0000:#4e9a06:#c4a000:#3465a4:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#8ae234:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
     show_titlebar = False
@@ -126,6 +129,7 @@ vim config
 ```
 
 这些配置都可以在terminator页面右键鼠标`profiles`中设置；
+
 
 
 
