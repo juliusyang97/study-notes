@@ -8,13 +8,38 @@
 >
 > \3. 输入【xq】（星期的首字母），输出系统星期【2006年12月28日 星期四】；
 
-## 1. auotolab -- ros
+## 1. autolab -- ros
 
 [【奥特学园】ROS机器人入门课程《ROS理论与实践》零基础教程](https://www.bilibili.com/video/BV1Ci4y1L7ZZ)
 
 课程文档：http://www.autolabor.com.cn/book/ROSTutorials/
 
-2021年8月9日07:16:07  --> p19;
+1. 2021年8月9日07:16:07  --> p19;
+2. 2021年08月11日22:55:13  --> p34 -- 08:00
+3. 2021年08月15日22:44:19  --> p37 --  第一章完结：ROS概述与环境搭建
+4. 2021年08月16日11:27:38 --> p47  -- c++实现未学习
+
+
+
+
+
+
+
+## 2. 
+
+> ###### 跟李沐学AI ： https://space.bilibili.com/1567748478/video
+>
+> 
+>
+> 动手学深度学习：
+>
+> > 课程主页：https://courses.d2l.ai/zh-v2/ 
+>
+> > 教材：https://zh-v2.d2l.ai/
+>
+> > 课程打卡： https://jmq.h5.xeknow.com/s/W9Y7w
+
+
 
 
 
