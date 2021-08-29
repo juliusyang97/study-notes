@@ -2,21 +2,23 @@
 
      ubuntu 同时使用无线网卡和有线网卡：https://blog.csdn.net/huohongpeng/article/details/78608671#commentBox
 
-​    
 
-    ### 关于网络连接的问题
-    
-    > 1. 虚拟机无法连接无人车网络：首先直接用windows宿主机连接无人车WiFi，然后虚拟机顺利`ssh`连接无人车，之后断开WiFi（有线还能保持ssh连接正常），WiFi连接外网
-    >
-    > 2. 如果需要在虚拟机中使用外网，得把和无人车连接的有线网络拔掉，虚拟机才可以正常上网。
-    >
-    > 3. 无人车需要上外网的话，可以通过WiFi，或者手机USB分享网络都可以。
-    >
-    >     ```bash
-    >     sudo nmcli device wifi connect WIFI名称 password WIFI密码
-    >     ```
-    >
-    >     
+
+
+### 关于网络连接的问题
+
+> 1. 虚拟机无法连接无人车网络有线：首先直接用windows宿主机连接无人车WiFi（实测只需先断开宿主机连接的WiFi，尝试虚拟机连接无人车，连接成功之后宿主机再连接WiFi即可），然后虚拟机顺利`ssh`连接无人车，之后断开WiFi（有线还能保持ssh连接正常），WiFi连接外网
+>
+> 2. 如果需要在虚拟机中使用外网，得把和无人车连接的有线网络拔掉，虚拟机才可以正常上网。
+>
+> 3. 无人车需要上外网的话，可以通过WiFi，或者手机USB分享网络都可以。
+>
+>     ```bash
+>     sudo nmcli device wifi connect WIFI名称 password WIFI密码
+>     ```
+>
+>     
+
 
 
 
@@ -36,7 +38,13 @@ https://github.com/ydsf16/imu_gps_localization
 
 [移动机器人传感器——GNSS](https://blog.csdn.net/Kalenee/article/details/114671891)
 
-[GPS在ROS中的测试和使用:](http://community.bwbot.org/topic/718/gps%E5%9C%A8ros%E4%B8%AD%E7%9A%84%E6%B5%8B%E8%AF%95%E5%92%8C%E4%BD%BF%E7%94%A8)
+[GPS在ROS中的测试和使用](http://community.bwbot.org/topic/718/gps%E5%9C%A8ros%E4%B8%AD%E7%9A%84%E6%B5%8B%E8%AF%95%E5%92%8C%E4%BD%BF%E7%94%A8)
+
+
+
+**[ArghyaChatterjee](https://github.com/ArghyaChatterjee)/[gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros)**
+
+
 
 
 
