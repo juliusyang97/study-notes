@@ -57,6 +57,14 @@ https://github.com/ydsf16/imu_gps_localization
 
 [husky](https://github.com/husky)/[husky](https://github.com/husky/husky)
 
+[danielsnider](https://github.com/danielsnider)/**[MapViz-Tile-Map-Google-Maps-Satellite](https://github.com/danielsnider/MapViz-Tile-Map-Google-Maps-Satellite)**
+
+
+
+  
+
+
+
 
 
 Map update loop missed its desired rate of 1.0000Hz... the loop actually took 5.1845 seconds
