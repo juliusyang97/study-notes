@@ -1,9 +1,10 @@
 1. 将ros中的gps_msg数据导入google earth显示轨迹 : https://blog.csdn.net/datase/article/details/79061219
 
-<<<<<<< HEAD
+
+
 2. ubuntu 同时使用无线网卡和有线网卡：https://blog.csdn.net/huohongpeng/article/details/78608671#commentBox
-=======
-     ubuntu 同时使用无线网卡和有线网卡：https://blog.csdn.net/huohongpeng/article/details/78608671#commentBox
+
+     
 
 
 
@@ -22,7 +23,7 @@
 >
 >     
 
->>>>>>> 0cb2c96b4e21bdd734e7d67d12c20145d3d43ba4
+
 
 3. ROS 之 2d Nav goal不工作:https://blog.csdn.net/weixin_40639095/article/details/108253724
 
@@ -55,6 +56,18 @@ https://github.com/ydsf16/imu_gps_localization
 **[ArghyaChatterjee](https://github.com/ArghyaChatterjee)/[gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros)**
 
 [husky](https://github.com/husky)/[husky](https://github.com/husky/husky)
+
+
+
+Map update loop missed its desired rate of 1.0000Hz... the loop actually took 5.1845 seconds
+
+Datum UTM coordinate is (382166.057558, 3994866.939381)
+
+Datum (latitude, longitude, altitude) is (36.091291, 103.691113, 1488.993000)
+
+Deleting Nodes: 0 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 18 20 21 22 24 25 26 27 29 30 32 34 38 39 40 41 42 43 45 47 48 49 50 52 53 54 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 73 74 75 76 77 78 79 Done
+
+
 
 
 
