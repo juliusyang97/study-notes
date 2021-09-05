@@ -51,6 +51,9 @@ https://github.com/ydsf16/imu_gps_localization
 
 [GPS在ROS中的测试和使用](http://community.bwbot.org/topic/718/gps%E5%9C%A8ros%E4%B8%AD%E7%9A%84%E6%B5%8B%E8%AF%95%E5%92%8C%E4%BD%BF%E7%94%A8)
 
+[gps + navigation - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/12663/gps-navigation/)
+
+[CesMak](https://github.com/CesMak)/**[rviz_maps](https://github.com/CesMak/rviz_maps)**
 
 
 
@@ -58,8 +61,7 @@ https://github.com/ydsf16/imu_gps_localization
 
 
 
-
-
+[sigmaai](https://github.com/sigmaai)/**[self-driving-golf-cart](https://github.com/sigmaai/self-driving-golf-cart)**  --> [GPS Localization with ROS, rviz and OSM – Neil Nie](https://neilnie.com/2018/05/10/gps-localization-with-ros-rviz-and-osm/#:~:text=GPS Localization with ROS%2C rviz and OSM. When,crucial to self-driving vehicles%2C which requires incredible precision.)
 
 **[ArghyaChatterjee](https://github.com/ArghyaChatterjee)/[gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros)**
 
