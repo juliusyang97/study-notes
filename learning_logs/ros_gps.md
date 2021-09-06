@@ -55,11 +55,11 @@ https://github.com/ydsf16/imu_gps_localization
 
 [CesMak](https://github.com/CesMak)/**[rviz_maps](https://github.com/CesMak/rviz_maps)**
 
+[ArduSimple RTK - ROS 集成](https://msadowski.github.io/ardusimple-ros-integration/)
 
 
 
-
-
+A BETTER SOLUTION FOR GPS WAYPOINT NAVIGATION: https://clearpathrobotics.com/blog/2018/06/better-solution-for-gps-waypoint-navigation/
 
 [sigmaai](https://github.com/sigmaai)/**[self-driving-golf-cart](https://github.com/sigmaai/self-driving-golf-cart)**  --> [GPS Localization with ROS, rviz and OSM – Neil Nie](https://neilnie.com/2018/05/10/gps-localization-with-ros-rviz-and-osm/#:~:text=GPS Localization with ROS%2C rviz and OSM. When,crucial to self-driving vehicles%2C which requires incredible precision.)
 
