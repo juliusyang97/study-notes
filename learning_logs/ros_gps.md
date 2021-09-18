@@ -71,7 +71,7 @@ A BETTER SOLUTION FOR GPS WAYPOINT NAVIGATION: https://clearpathrobotics.com/blo
 
 https://github.com/nickcharron/waypoint_nav
 
-
+室外自动导航车：https://blog.csdn.net/z824074989y/category_9117770.html
 
 
 
