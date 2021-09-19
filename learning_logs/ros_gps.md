@@ -71,6 +71,18 @@ A BETTER SOLUTION FOR GPS WAYPOINT NAVIGATION: https://clearpathrobotics.com/blo
 
 https://github.com/nickcharron/waypoint_nav
 
+https://github.com/rpng/gps_path_pub
+
+https://github.com/chengyangkj/Ros_Qt5_Gui_App
+
+
+
+
+
+CGI610组合导航系统在ros下的驱动编写：https://github.com/softdream/GPS_Driver
+
+
+
 室外自动导航车：https://blog.csdn.net/z824074989y/category_9117770.html
 
 
