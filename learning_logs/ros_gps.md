@@ -81,6 +81,10 @@ https://github.com/chengyangkj/Ros_Qt5_Gui_App
 
 CGI610组合导航系统在ros下的驱动编写：https://github.com/softdream/GPS_Driver
 
+lidar-imu-cam-GPS时间戳硬件同步方案：[nkliuhui/sync_gps_lidar_imu_cam: lidar-imu-cam-GPS时间戳硬件同步方案 (github.com)](https://github.com/nkliuhui/sync_gps_lidar_imu_cam)
+
+
+
 
 
 室外自动导航车：https://blog.csdn.net/z824074989y/category_9117770.html
