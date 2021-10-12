@@ -83,7 +83,9 @@ CGI610组合导航系统在ros下的驱动编写：https://github.com/softdream/
 
 lidar-imu-cam-GPS时间戳硬件同步方案：[nkliuhui/sync_gps_lidar_imu_cam: lidar-imu-cam-GPS时间戳硬件同步方案 (github.com)](https://github.com/nkliuhui/sync_gps_lidar_imu_cam)
 
+[cloudcjf/huace_driver (github.com)](https://github.com/cloudcjf/huace_driver)
 
+[BigWide/chccgi610: 华测导航610版组合导航的SDK程序 (github.com)](https://github.com/BigWide/chccgi610)
 
 
 
