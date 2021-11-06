@@ -89,6 +89,40 @@ lidar-imu-cam-GPS时间戳硬件同步方案：[nkliuhui/sync_gps_lidar_imu_cam:
 
 
 
+https://github.com/sihanfei/agv
+
+**https://github.com/YangSVM/trajectory_tracking**
+
+https://github.com/CastielLiu/gps_driver  : (东南大学至善智能车队)
+
+https://github.com/520reus/MyNotes/tree/8d0141307acbf5b8e804316eabafc2bac380dd95/%E4%BB%A3%E7%A0%81%E4%BB%93%E5%BA%93/catkin_test_ws/src/learning_veddha/src
+
+https://github.com/lyasin/lyasin.github.io
+
+
+
+https://github.com/labimage/Integrated_navigation_system
+
+https://github.com/NithishkumarS/jackal_waypoint_navigation
+
+
+
+
+
+
+
+### 坐标系变换：
+
+[GPS经纬度坐标WGS84到东北天坐标系ENU的转换：](https://www.cnblogs.com/long5683/p/13831605.html)https://www.cnblogs.com/long5683/p/13831605.html
+
+https://github.com/gyjun0230/wgs_conversions
+
+https://github.com/allenhsu6/ros_gnss_driver --> 解析nmea格式文件，转换到ENU坐标系，并发布成odometry数据格式
+
+
+
+
+
 室外自动导航车：https://blog.csdn.net/z824074989y/category_9117770.html
 
 
