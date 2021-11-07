@@ -179,7 +179,7 @@ def key_even(input_key):
     :return:
     """
     win32api.keybd_event(VK_CODE[input_key], 0, 0, 0)
-    time.sleep(0.04)
+    time.sleep(0.01)
     win32api.keybd_event(VK_CODE[input_key], 0, win32con.KEYEVENTF_KEYUP, 0)
     time.sleep(0.01)
  
@@ -187,7 +187,7 @@ def key_even(input_key):
 # 方法调用
 import time
 while True:
-    time.sleep(0.05)
+    time.sleep(0.1)
     # input_words = input('请输入要操作的键(多个):')
-    key_input('hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh1')
+    key_input('y2')
  
