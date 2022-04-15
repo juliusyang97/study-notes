@@ -1,55 +1,39 @@
-# -*- coding: utf-8 -*-
+# Author：juliusyang
 
-import sys
+import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 
+wd = webdriver.Chrome()
 
-from PyQt5.QtWebEngineWidgets import QWebEngineView
-from PyQt5.QtCore import *
-from PyQt5.QtWidgets import *
+wd.get(
+    'https:xxx')
+element = wd.find_element_by_class_name('largeIcon_21')  # 这是selenium3的写法
+element.click()
 
+element = wd.find_element_by_id('username')
+element.send_keys('xxx')
 
-class WebView(QWebEngineView):
-    def __init__(self):
-        super(WebView, self).__init__()
-        #url = 'https://blog.51cto.com/u_15169037/2711577'  # 自定义刷新的网页
-        url = 'https://rohm.eefocus.com/module/forum/forum.php'
-        self.load(QUrl(url))
-        self.showMinimized()  #窗口最小化
-        self.show()
-        self.thread = Worker()  # 创建线程实例
-        self.thread.sinOut.connect(self.reloadWeb)  # 信号绑定槽函数
-        self.thread.start()  # 开启线程
+element = wd.find_element_by_name('password')
+element.send_keys('xxx\n')
 
+wd2 = webdriver.Chrome()
+wd2.get(
+    'https://xxx')
+element = wd2.find_element_by_class_name('largeIcon_21')  # 这是selenium3的写法
+element.click()
 
-    def reloadWeb(self):
-        self.reload() #刷新网页
+element = wd2.find_element_by_id('username')
+element.send_keys('xxx')
 
+element = wd2.find_element_by_name('password')
+element.send_keys('xxx\n')
 
-class Worker(QThread):
-    sinOut = pyqtSignal()  # 创建新的信号，并且有参数
-    num = 0
-    def __init__(self, parent=None):  # 构造方法 创建号对象之后，会自动调用
-        super(Worker, self).__init__(parent)
+# 浏览器页面刷新
+for i in range(3):
+    wd.refresh()
+    wd2.refresh()
+    time.sleep(2)
 
-
-    def __del__(self):  # 析构函数 再对象被删除 和 回收的时候调用
-        self.wait()
-
-    def run(self):
-        for i in range(100000):
-            # 发出信号
-            self.sinOut.emit()  # 给信号传参字符串，并发送
-            # 线程休眠66秒
-            self.sleep(60)
-            Worker.num = Worker.num + 1
-            print (str(Worker.num) + " 次刷新")
-
-
-
-
-if __name__ == '__main__':
-    app = QApplication(sys.argv)
-    web = WebView()
-    print('### exec succeed !')
-    sys.exit(app.exec_())
-
+wd.quit()
+wd2.quit()
