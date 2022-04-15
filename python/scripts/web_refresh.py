@@ -36,7 +36,7 @@ class Worker(QThread):
         self.wait()
 
     def run(self):
-        for i in range(1000):
+        for i in range(100000):
             # 发出信号
             self.sinOut.emit()  # 给信号传参字符串，并发送
             # 线程休眠66秒
