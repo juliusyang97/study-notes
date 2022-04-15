@@ -187,7 +187,7 @@ def key_even(input_key):
 # 方法调用
 import time
 while True:
-    time.sleep(0.5)
+    time.sleep(2.5)
     # input_words = input('请输入要操作的键(多个):')
     key_input('yyy2')
  
